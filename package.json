@@ -1,6 +1,6 @@
 {
   "name": "invirtu-react-widgets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "private": false,
@@ -60,9 +60,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:BingeWave-Libraries/react-widgets.git"
+    "url": "git+git@github.com/invirtu-libraries/Invirtu-React-Widgets.git"
   },
-  "homepage": "https://github.com/BingeWave-Libraries/react-widgets#readme",
+  "homepage": "https://github.com/invirtu-libraries/Invirtu-React-Widgets#readme",
   "keywords": [
     "live streaming",
     "video",
