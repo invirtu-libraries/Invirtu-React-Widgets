@@ -5,7 +5,7 @@ interface ConfigInterface {
 }
 
 const Config : ConfigInterface = {
-    connector_script : 'https://connect.bingewave.com/connect.js',
+    connector_script : 'https://connect.invirtu.io/connect.js',
     connector_script_id : 'bw_connector'
 }
 
