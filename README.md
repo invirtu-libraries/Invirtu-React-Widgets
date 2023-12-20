@@ -1,7 +1,7 @@
 
-# BingeWave React Widget Library
+# Invirtu React Widget Library
 
-  BingeWave is a Live Media as a Service (LMAAS), which means no-code and low-code tools for building video conferencing, audio conferencing, live streaming, and augmented reality solutions. 
+  Invirtu is a Live Media as a Service (LMAAS), which means no-code and low-code tools for building video conferencing, audio conferencing, live streaming, and augmented reality solutions. 
 
 This library will cover how to implement the live media functionality into React website. This repo only covers a React implementation for websites; please visit the React Native repo for a mobile implementation.
 
@@ -19,11 +19,11 @@ This library is designed for React projects. To install, on your command line ru
 
 ## How To Implement The Widgets
 
-On BingeWave, every video conference, audio conference, live stream, and AR session is considered a live event. For each widget to function properly, an id of a live event is required. To obtain an event ID, you must have registered for an [organizer account here](https://developers.bingewave.com/organizers).
+On Invirtu, every video conference, audio conference, live stream, and AR session is considered a live event. For each widget to function properly, an id of a live event is required. To obtain an event ID, you must have registered for an [organizer account here](https://developers.invirtu.io/organizers).
 
 Once you have an organizer account, you can either:
 
-1. Read the [documentation](https://developers.bingewave.com/docs/events#create) to create a live event and return the id
+1. Read the [documentation](https://developers.invirtu.io/docs/events#create) to create a live event and return the id
 
 2. Use one of the libraries, like the [Invirtu Javascript API Library](https://www.npmjs.com/package/invirtu-javascript-api), to create a live event and retrieve the id.
 
@@ -144,7 +144,7 @@ import { Ticketing } from  "invirtu-react-widgets";
 ## Tutorials
 
   
-To better understand the use of various widgets in different circumstances, the auth tokens and interface design, here are [several tutorials](https://developers.bingewave.com/tutorials) on various topics:
+To better understand the use of various widgets in different circumstances, the auth tokens and interface design, here are [several tutorials](https://developers.invirtu.io/tutorials) on various topics:
 
   
 
